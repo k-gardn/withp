@@ -8,7 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           난 할 수 없다!! <code>src/App.js</code> and save to reload.
-           <code>src/App.js</code> and save to reload.
+          <code>src/App.js</code> and save to reload.
           아무거나
         </p>
         <p>test YR</p>
