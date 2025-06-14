@@ -7,9 +7,9 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          할수있다!!!수정하기 <code>src/App.js</code> and save to reload.
+          수정하기YYYYYYYYYYYYYYYY <code>src/App.js</code> and save to reload.
         </p>
-        <p>test YR</p>
+        <p>test YR aaaaaaaaaaaaaaa</p>
         <a
           className="App-link"
           href="https://reactjs.org"
