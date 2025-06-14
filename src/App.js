@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          할수있다!!!!정원 <code>src/App.js</code> and save to reload.
+          할수있다!!!수정하기 <code>src/App.js</code> and save to reload.
         </p>
         <p>test YR</p>
         <a
